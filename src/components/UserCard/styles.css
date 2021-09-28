@@ -1,0 +1,29 @@
+body {
+  background-color: aquamarine;
+}
+
+.userCard {
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  height: 25px;
+  background-color: teal;
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+button:hover {
+  background-color: #fff;
+  color: teal;
+  border: 1px solid teal;
+}
